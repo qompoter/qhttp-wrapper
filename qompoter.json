@@ -1,0 +1,20 @@
+{
+    "name": "qompoter/qhttp-wrapper",
+    "description": "Qompoter wrapper for azadkuh/qhttp",
+    "license": "MIT",
+    "keywords": [
+        "HTTP",
+        "Qompoter"
+    ],
+    "authors": [
+        {
+            "name": "Olivier Maridat",
+            "email": "olivier.maridat@trialog.com",
+            "company": "Trialog"
+        }
+    ],
+    "require": {
+        "azadkuh/qhttp": "version-3.*",
+        "qompoter/http-parser-wrapper": "v2.7.*"
+    }
+}
