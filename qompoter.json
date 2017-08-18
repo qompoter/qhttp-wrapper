@@ -1,6 +1,6 @@
 {
     "name": "qompoter/qhttp-wrapper",
-    "description": "Qompoter wrapper for azadkuh/qhttp",
+    "description": "Qompoter wrapper for oliviermaridat/qhttp",
     "license": "MIT",
     "keywords": [
         "HTTP",
@@ -14,7 +14,6 @@
         }
     ],
     "require": {
-        "azadkuh/qhttp": "version-3.*",
-        "qompoter/http-parser-wrapper": "v2.7.*"
+        "oliviermaridat/qhttp": "v3.*"
     }
 }
