@@ -3,7 +3,7 @@ QHttp - Qompoter Wrapper
 
 This [Qompoter](https://github.com/Fylhan/qompoter) wrapper helps to integrate [azadkuh/qhttp](https://github.com/azadkuh/qhttp), a light-weight and asynchronous HTTP library (both server & client) in Qt/C++ , using [Qompoter](https://github.com/Fylhan/qompoter).
 
-This wrapper targets two versions of QHttp: the original one by [azadkuh](https://github.com/azadkuh/qhttp) requiring Qt5 and C++14, and a forked one by [oliviermaridat](https://github.com/oliviermaridat/qhttp) requiring only Qt5 and C++11.
+This wrapper targets two versions of QHttp: the original one by [azadkuh](https://github.com/azadkuh/qhttp) requiring Qt5 and C++14, and a forked one by [oliviermaridat](https://github.com/oliviermaridat/qhttp) requiring only Qt5.3+ and C++11.
 
 Usage
 -----------
